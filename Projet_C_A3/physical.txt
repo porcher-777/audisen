@@ -1,0 +1,321 @@
+Physical Dua Lipa
+147
+
+A5 R, A2 C
+A2 C
+F3 C
+A2 C
+A2 C
+E3 C
+A2 C
+A2 C
+A5 B, D3 C
+A2 C
+A2 C
+D3 C, E6 N
+A2 C
+A2 C
+D3 C
+E3 C, G5 C
+A5 R, F2 C
+F2 C
+F3 C
+F2 C
+F2 C
+E3 C
+F2 C
+F2 C
+A5 B, D3 C
+F2 C
+F2 C
+D3 C
+G5 B, F2 C
+F2 C
+D3 C
+E3 C
+F6 N, C2 C
+C2 C
+F3 C
+E6 C, C2 C
+E6 N, C2 C
+E3 C
+C5 N, C2 C
+C2 C
+C5 R, D3 C
+C2 C
+C2 C
+D3 C
+C2 C
+C2 C
+D3 C
+E3 C
+F6 N, G2 C
+G2 C
+F3 C
+E6 C, G2 C
+E6 N, G2 C
+E3 C
+B5 N, G2 C
+G2 C
+B5 R, D3 C
+G2 C
+G2 C
+C3 C
+G2 C
+G2 C
+C3 N
+C5 C, A2 C
+C5 C, E3 C
+C5 N, C4 C
+E3 C
+B4 C, A2 C
+B4 C, E3 C
+B4 C, B3 C
+B4 C, E3 C
+B4 C, A2 C
+C5 C, A4 C
+C5 N, A4 B
+E3 C
+A2 C
+E3 C
+B3 C
+E3 C
+C5 C, F2 C
+C5 C, D3 C
+C5 C, A3 C
+C5 C, D3 C
+B4 C, F2 C
+B4 C, D3 C
+B4 C, G3 C
+B4 C, C3 C
+B4 C, F2 C
+A4 C, D3 C
+A4 N, A3 C
+D3 C
+A4 C, F2 C
+C5 C, D3 C
+A4 C, G3 C
+E5 C, C3 C
+E5 R, C2 C
+G2 C
+E3 C
+G2 C
+C2 C
+G2 C
+D3 C
+G2 C
+E5 B, C2 C
+G2 C
+E3 C
+G2 C
+A4 C, C2 C
+C5 C, G2 C
+A4 C, D3 C
+E5 C, G2 C
+E5 R, G2 C
+D3 C
+A3 C
+D3 C
+G2 C
+D3 C
+B3 C
+D3 C
+E5 R, G2 C
+D3 C
+A3 C
+D3 C
+G2 C
+D3 C
+B3 C
+D3 C
+C5 C, E5 C, A2 C
+C5 C, E5 C, A4 C
+C5 C, E5 C, A4 B
+C5 C, E5 C, E3 C
+B4 C, D5 C, A2 C
+B4 C, D5 C, E3 C
+B4 C, D5 C, B3 C
+B4 C, D5 C, E3 C
+C5 C, E5 C, A2 C
+B4 C, D5 C, A4 C
+B4 B, D5 B, A4 B
+E3 C
+A2 C
+E3 C
+B3 C
+E3 C
+C5 C, E5 C, F2 C
+C5 C, E5 C, D3 C
+C5 C, E5 C, A3 C
+C5 C, E5 C, D3 C
+B4 C, D5 C, F2 C
+B4 C, D5 C, D3 C
+B4 C, D5 C, G3 C
+B4 C, D5 C, C3 C
+C5 C, E5 C, F2 C
+A4 C, C5 C, D3 C
+A4 C, C5 C, A3 C
+D3 C
+A4 C, F2 C
+C5 C, D3 C
+A4 C, G3 C
+E5 C, C3 C
+E5 R, C2 C
+G2 C
+E3 C
+G2 C
+C2 C
+G2 C
+D3 C
+G2 C
+E5 B, C2 C
+G2 C
+E3 C
+G2 C
+A4 C, C2 C
+C5 C, G2 C
+A4 C, D3 C
+E5 C, G2 C
+E5 B, G2 C
+D3 C
+A3 C
+D3 C
+G2 C
+D3 C
+D5 C, B3 C
+C5 C, D3 C
+E5 R, G2 C
+D3 C
+A3 C
+D3 C
+G2 C
+D3 C
+B3 C
+D3 C
+C5 N, A1 C
+A2 C
+E4 N, C4 N, A3 N, A1 C
+A2 C
+E4 N, C4 N, A3 N, A1 C
+A2 C
+A1 C
+E4 C, A2 C
+E4 C, C4 C, A3 C, A1 C
+E4 C, C4 C, A3 C, A2 C
+E4 C, C4 C, A3 C, A1 C
+E4 C, C4 C, A3 C, A2 C
+E4 N, C4 N, A3 N, A1 C
+A2 C
+E3 C, A1 C
+G4 C, F4 C, C4 C, F1 C
+A4 C, F4 C, C4 C, F2 C
+A4 C, F4 C, C4 C, F1 C
+G4 C, F4 C, C4 C, F2 C
+A4 N, F4 N, C4 N, F1 C
+F2 C
+E4 C, F1 C
+E4 C, F2 C
+G4 C, C4 C, F1 C
+A4 C, C4 C, F2 C
+G4 C, C4 C, F1 C
+A4 C, F4 C, C4 C, F2 C
+A4 C, F4 C, C4 C, F1 C
+E4 C, F2 C
+G4 C, E4 C, C4 C, C2 C
+G4 C, E4 C, C4 C, C3 C
+G4 B, E4 B, C4 B, C2 C
+C3 C
+C2 C
+C3 C
+C2 C
+C3 C
+G4 C, E4 C, C4 C, C2 C
+G4 C, E4 C, C4 C, C3 C
+G4 B, E4 B, C4 B, C2 C
+C3 C
+C2 C
+C3 C
+C2 C
+C3 C
+G4 C, E4 C, C4 C, C2 C
+G4 C, E4 C, C4 C, C3 C
+G4 R, E4 R, C4 R, G1 C
+G2 C
+G1 C
+G2 C
+G1 C
+G2 C
+G1 C
+G2 C
+G5 N, G4 N, G1 C
+G2 C
+G5 N, G4 N, G1 C
+G2 C
+G5 C, G4 C, G1 C
+E5 C, E4 C, G2 C
+A5 N, A4 N, G1 C
+G2 C
+A5 N, A4 N, A1 C
+A2 C
+E4 N, C4 N, A3 N, A1 C
+A2 C
+E4 B, C4 B, A3 B, A1 C
+A2 C
+A1 C
+A2 C
+E4 C, C4 C, A3 C, A1 C
+E4 C, C4 C, A3 C, A2 C
+E4 C, C4 C, A3 C, A1 C
+E4 C, C4 C, A3 C, A2 C
+E4 N, C4 N, A3 N, A1 C
+A2 C
+A1 C
+A4 C, F4 C, C4 C, A2 C
+A4 C, F4 C, C4 C, F1 C
+G4 C, F4 C, C4 C, F2 C
+G4 C, F4 C, C4 C, F1 C
+G4 C, F4 C, C4 C, F2 C
+G4 C, F4 C, C4 C, F1 C
+F4 C, C4 C, A3 C, F2 C
+F4 C, C4 C, A3 C, F1 C
+E4 C, C4 C, A3 C, F2 C
+F4 C, C4 C, A3 C, F1 C
+E4 C, F2 C
+D4 C, F1 C
+C4 C, A3 C, F3 C, F2 C
+C4 C, A3 C, F3 C, F1 C
+F2 C
+G4 C, E4 C, C4 C, C2 C
+G4 C, E4 C, C4 C, C3 C
+G4 B, E4 B, C4 B, C2 C
+C3 C
+C2 C
+C3 C
+C2 C
+C3 C
+G4 C, E4 C, C4 C, C2 C
+G4 C, E4 C, C4 C, C3 C
+G4 B, E4 B, C4 B, C2 C
+C3 C
+C2 C
+C3 C
+C2 C
+C3 C
+G4 C, E4 C, C4 C, C2 C
+G4 C, E4 C, C4 C, C3 C
+G4 R, E4 R, C4 R, G1 C
+G2 C
+G1 C
+G2 C
+G1 C
+G2 C
+G1 C
+G2 C
+G4 N, G5 N, G1 C
+G2 C
+G4 N, G5 N, G1 C
+G2 C
+G4 C, G5 C, G1 C
+E4 C, E5 C, G2 C
+A4 N, A5 N, G1 C
+G2 C
